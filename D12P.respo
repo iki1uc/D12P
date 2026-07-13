@@ -25,7 +25,8 @@ D1   = PIPE
 D2   = SET
 D3   = LAGE
 D4   = LaTER
-D12P = D12P
+D4P  = RAW
+D12P = Perfektionsebene
 D5   = ORT
 
 # 360°
