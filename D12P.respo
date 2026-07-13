@@ -1,0 +1,32 @@
+# D12P.respo – 81-Konstellation / Meta-Perfektion / 12e / 6D
+
+D12P = /d12p/
+
+# Kompatibilität
+ROOT.compat   = TMP
+PIPE.compat   = TMP
+SET.compat    = TMP
+LAGE.compat   = TMP
+LaTER.compat  = TMP
+ORT.compat    = TMP
+D12P.compat   = TMP
+
+# Frequenz
+FREQ.12 = iki → bir → uc → LE → iki1uc → GO → sys → tem → AU → RA → TET → RIZ → D12P
+
+# 6D
+D0  = IN
+D1  = PIPE
+D2  = SET
+D3  = LAGE
+D4  = LaTER
+D12P = D12P
+D5  = ORT
+
+# 360°
+SEQ.360 = D12P → D0 → D1 → D2 → D3 → D4 → D5 → D12P
+
+ACTIVE = TRUE
+READY  = 100%
+RAW    = D4P
+SCALE  = RAW → 9×9 → 81 → D12P
